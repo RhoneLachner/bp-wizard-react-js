@@ -65,5 +65,7 @@ npm run dev
 MIT © [Rhone Lachner](https://github.com/rhonelachner)
 
 **Support this project:** [Buy me a coffee ☕️](https://coff.ee/rhone)
+
+**Download my commit message formatting tool, CommitWizard, here:** [CommitWizard CLI](https://www.npmjs.com/package/commitwizard-cli)
 ```
 
